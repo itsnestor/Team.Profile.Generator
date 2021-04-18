@@ -40,7 +40,7 @@
   ```
 
   Picture of working website:
-  ![image](assets/10-object-oriented-programming-homework-demo.png)
+  ![image](Assets/10-object-oriented-programming-homework-demo.png)
 
 
 ## Links
