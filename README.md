@@ -39,26 +39,22 @@
   npm run test
   ```
 
-  Picture of working website:
-  ![image](Assets/10-object-oriented-programming-homework-demo.png)
-
+  Gif of how it all works:
+  ![walkthrough video](Assets/Team-Profile-Generator-Walkthrough.mp4)
 
 ## Links
 
+  Picture of working website:
 
+  ![image](Assets/10-object-oriented-programming-homework-demo.png)
+
+  Walkthrough Video Link: https://drive.google.com/file/d/1SgECHM7AoE7QEc9qXhI-NJKaxiaoskKh/view
+  Github Repository Link: https://github.com/itsnestor/Team.Profile.Generator
   
 ## License
 
   [![mitLicense](https://img.shields.io/badge/license-MIT-green?style=plastic)](https://choosealicense.com/licenses/bsd-3-clause/)
   
-## Contributions
-
-  
-
-## Tests
-
-  
-
 ## Questions
 
   [![GitHub](https://img.shields.io/badge/My%20GitHub-Click%20Me!-blueviolet?style=plastic&logo=GitHub)](https://github.com/itsnestor)
