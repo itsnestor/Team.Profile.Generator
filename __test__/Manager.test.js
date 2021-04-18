@@ -11,7 +11,7 @@ describe("Manager class", () => {
     describe("getRole method", () => {
         it("would return the user's role", () => {
             let manager = new Manager("nestor", "28", "nestor@gmail.com", "13");
-            expect(manager.getOfficeNumber()).toBe("Manager");
+            expect(manager.getRole()).toBe("Manager");
         })
     });
 })
