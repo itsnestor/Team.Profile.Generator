@@ -40,7 +40,7 @@
   ```
 
   Gif of how it all works:
-  ![walkthrough video](Assets/Team-Profile-Generator-Walkthrough.mp4)
+  ![walkthrough video](Assets/Team.Profile.Generator.Walkthrough.Video.gif)
 
 ## Links
 
@@ -48,8 +48,8 @@
 
   ![image](Assets/10-object-oriented-programming-homework-demo.png)
 
-  Walkthrough Video Link: https://drive.google.com/file/d/1SgECHM7AoE7QEc9qXhI-NJKaxiaoskKh/view
-  Github Repository Link: https://github.com/itsnestor/Team.Profile.Generator
+  * Walkthrough Video Link: https://drive.google.com/file/d/1SgECHM7AoE7QEc9qXhI-NJKaxiaoskKh/view
+  * Github Repository Link: https://github.com/itsnestor/Team.Profile.Generator
   
 ## License
 
