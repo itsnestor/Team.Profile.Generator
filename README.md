@@ -40,6 +40,7 @@
   ```
 
   Gif of how it all works:
+  
   ![walkthrough video](Assets/Team.Profile.Generator.Walkthrough.Video.gif)
 
 ## Links
